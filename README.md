@@ -4,7 +4,7 @@
     </div>
 </a>
 
-[![Codacy Badge](http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/codacy/grade/ca2a29ddcf7445588beff50bee5406d9.svg)](https://app.codacy.com/app/tensorlayer/tensorlayer)
+[![Codacy Badge](http://badges.tensorlayer.org/codacy/grade/ca2a29ddcf7445588beff50bee5406d9.svg)](https://app.codacy.com/app/tensorlayer/tensorlayer)
 [![Mentioned in Awesome TensorLayer](https://awesome.re/mentioned-badge.svg)](https://github.com/tensorlayer/awesome-tensorlayer)
 [![English Documentation](https://img.shields.io/badge/documentation-english-blue.svg)](https://tensorlayer.readthedocs.io/)
 [![Chinese Documentation](https://img.shields.io/badge/documentation-中文-blue.svg)](https://tensorlayercn.readthedocs.io/)
@@ -12,18 +12,18 @@
 [![Downloads](http://pepy.tech/badge/tensorlayer)](http://pepy.tech/project/tensorlayer)
 
 
-![PyPI Stable Version](http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/github/release/tensorlayer/tensorlayer.svg?label=PyPI%20-%20Release)
-![PyPI RC Version](http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/github/release/tensorlayer/tensorlayer/all.svg?label=PyPI%20-%20Pre-Release)
-[![Github commits (since latest release)](http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/github/commits-since/tensorlayer/tensorlayer/latest.svg)](https://github.com/tensorlayer/tensorlayer/compare/1.8.6rc2...master)
-[![PyPI - Python Version](http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/pypi/pyversions/tensorlayer.svg)](https://pypi.org/project/tensorlayer/)
-[![Supported TF Version](http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/badge/tensorflow-1.6.0+-blue.svg)](https://github.com/tensorflow/tensorflow/releases)
+![PyPI Stable Version](http://badges.tensorlayer.org/github/release/tensorlayer/tensorlayer.svg?label=PyPI%20-%20Release)
+![PyPI RC Version](http://badges.tensorlayer.org/github/release/tensorlayer/tensorlayer/all.svg?label=PyPI%20-%20Pre-Release)
+[![Github commits (since latest release)](http://badges.tensorlayer.org/github/commits-since/tensorlayer/tensorlayer/latest.svg)](https://github.com/tensorlayer/tensorlayer/compare/1.8.6rc2...master)
+[![PyPI - Python Version](http://badges.tensorlayer.org/pypi/pyversions/tensorlayer.svg)](https://pypi.org/project/tensorlayer/)
+[![Supported TF Version](http://badges.tensorlayer.org/badge/tensorflow-1.6.0+-blue.svg)](https://github.com/tensorflow/tensorflow/releases)
 
-[![Build Status](http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/travis/tensorlayer/tensorlayer.svg?label=Travis&branch=master)](https://travis-ci.org/tensorlayer/tensorlayer)
-[![CircleCI](http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/circleci/project/github/tensorlayer/tensorlayer/master.svg?label=Docker%20Build)](https://circleci.com/gh/tensorlayer/tensorlayer/tree/master)
-[![Documentation Status](http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/readthedocs/tensorlayer/latest.svg?label=ReadTheDocs-EN)](https://tensorlayer.readthedocs.io/)
-[![Documentation Status](http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/readthedocs/tensorlayercn/latest.svg?label=ReadTheDocs-CN)](https://tensorlayercn.readthedocs.io/)
+[![Build Status](http://badges.tensorlayer.org/travis/tensorlayer/tensorlayer.svg?label=Travis&branch=master)](https://travis-ci.org/tensorlayer/tensorlayer)
+[![CircleCI](http://badges.tensorlayer.org/circleci/project/github/tensorlayer/tensorlayer/master.svg?label=Docker%20Build)](https://circleci.com/gh/tensorlayer/tensorlayer/tree/master)
+[![Documentation Status](http://badges.tensorlayer.org/readthedocs/tensorlayer/latest.svg?label=ReadTheDocs-EN)](https://tensorlayer.readthedocs.io/)
+[![Documentation Status](http://badges.tensorlayer.org/readthedocs/tensorlayercn/latest.svg?label=ReadTheDocs-CN)](https://tensorlayercn.readthedocs.io/)
 [![PyUP Updates](https://pyup.io/repos/github/tensorlayer/tensorlayer/shield.svg)](https://pyup.io/repos/github/tensorlayer/tensorlayer/)
-[![Docker Pulls](http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/docker/pulls/tensorlayer/tensorlayer.svg?maxAge=604800)](https://hub.docker.com/r/tensorlayer/tensorlayer/)
+[![Docker Pulls](http://badges.tensorlayer.org/docker/pulls/tensorlayer/tensorlayer.svg?maxAge=604800)](https://hub.docker.com/r/tensorlayer/tensorlayer/)
 
 <br/>
 
@@ -40,7 +40,7 @@ TensorLayer is a novel TensorFlow-based deep learning and reinforcement learning
 # Why another deep learning library: TensorLayer
 
 As deep learning practitioners, we have been looking for a library that can address various development
- purposes. This library is easy to adopt by providing diverse examples, tutorials and pre-trained models. 
+ purposes. This library is easy to adopt by providing diverse examples, tutorials and pre-trained models.
 Also, it allow users to easily fine-tune TensorFlow; while being suitable for production deployment. TensorLayer aims to satisfy all these purposes. It has three key features:
 
 - ***Simplicity*** : TensorLayer lifts the low-level dataflow interface of TensorFlow to *high-level* layers / models. It is very easy to learn through the rich [example codes](https://github.com/tensorlayer/awesome-tensorlayer) contributed by a wide community.
@@ -54,8 +54,8 @@ Also, it allow users to easily fine-tune TensorFlow; while being suitable for pr
 
 
 TensorLayer stands at a unique spot in the library landscape. Other wrapper libraries like Keras and TFLearn also provide high-level abstractions. They, however, often
-hide the underlying engine from users, which make them hard to customize 
-and fine-tune. On the contrary, TensorLayer APIs are generally flexible and transparent. 
+hide the underlying engine from users, which make them hard to customize
+and fine-tune. On the contrary, TensorLayer APIs are generally flexible and transparent.
 Users often find it easy to start with the examples and tutorials, and then dive
 into TensorFlow seamlessly. In addition, TensorLayer does not create library lock-in through native supports for importing components from Keras, TFSlim and TFLearn.
 

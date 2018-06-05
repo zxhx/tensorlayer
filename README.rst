@@ -7,7 +7,7 @@
    </a>
 
 
-.. image:: http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/codacy/grade/ca2a29ddcf7445588beff50bee5406d9.svg
+.. image:: http://badges.tensorlayer.org/codacy/grade/ca2a29ddcf7445588beff50bee5406d9.svg
     :target: https://app.codacy.com/app/tensorlayer/tensorlayer
 
 .. image:: https://awesome.re/mentioned-badge.svg
@@ -33,16 +33,16 @@
 .. raw:: html
 
 
-.. image:: http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/github/release/tensorlayer/tensorlayer.svg?label=PyPI%20-%20Release
+.. image:: http://badges.tensorlayer.org/github/release/tensorlayer/tensorlayer.svg?label=PyPI%20-%20Release
     :target: https://pypi.org/project/tensorlayer/
 
-.. image:: http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/github/release/tensorlayer/tensorlayer/all.svg?label=PyPI%20-%20Pre-Release
+.. image:: http://badges.tensorlayer.org/github/release/tensorlayer/tensorlayer/all.svg?label=PyPI%20-%20Pre-Release
     :target: https://pypi.org/project/tensorlayer/
 
-.. image:: http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/github/commits-since/tensorlayer/tensorlayer/latest.svg
+.. image:: http://badges.tensorlayer.org/github/commits-since/tensorlayer/tensorlayer/latest.svg
     :target: https://github.com/tensorlayer/tensorlayer/compare/1.8.6rc2...master
 
-.. image:: http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/pypi/pyversions/tensorlayer.svg
+.. image:: http://badges.tensorlayer.org/pypi/pyversions/tensorlayer.svg
     :target: https://pypi.org/project/tensorlayer/
 
 .. image:: https://img.shields.io/badge/tensorflow-1.6.0+-blue.svg
@@ -57,22 +57,22 @@
 
 
 
-.. image:: http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/travis/tensorlayer/tensorlayer.svg?label=Travis&branch=master
+.. image:: http://badges.tensorlayer.org/travis/tensorlayer/tensorlayer.svg?label=Travis&branch=master
     :target: https://travis-ci.org/tensorlayer/tensorlayer
 
-.. image:: http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/circleci/project/github/tensorlayer/tensorlayer/master.svg?label=Docker%20Build
+.. image:: http://badges.tensorlayer.org/circleci/project/github/tensorlayer/tensorlayer/master.svg?label=Docker%20Build
     :target: https://circleci.com/gh/tensorlayer/tensorlayer/tree/master
 
-.. image:: http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/readthedocs/tensorlayer/latest.svg?label=ReadTheDocs-EN
+.. image:: http://badges.tensorlayer.org/readthedocs/tensorlayer/latest.svg?label=ReadTheDocs-EN
     :target: https://tensorlayer.readthedocs.io/
     
-.. image:: http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/readthedocs/tensorlayercn/latest.svg?label=ReadTheDocs-CN
+.. image:: http://badges.tensorlayer.org/readthedocs/tensorlayercn/latest.svg?label=ReadTheDocs-CN
     :target: https://tensorlayercn.readthedocs.io/
     
 .. image:: https://pyup.io/repos/github/tensorlayer/tensorlayer/shield.svg
     :target: https://pyup.io/repos/github/tensorlayer/tensorlayer/
     
-.. image:: http://ec2-35-178-47-120.eu-west-2.compute.amazonaws.com/docker/pulls/tensorlayer/tensorlayer.svg
+.. image:: http://badges.tensorlayer.org/docker/pulls/tensorlayer/tensorlayer.svg
     :target: https://hub.docker.com/r/tensorlayer/tensorlayer/
 
 
